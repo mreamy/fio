@@ -1,4 +1,5 @@
-FROM registry.access.redhat.com/rhel7:latest
+#FROM registry.access.redhat.com/rhel7:latest
+FROM centos
 
 ENV fio_version=2.16
 
